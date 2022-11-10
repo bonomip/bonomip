@@ -9,7 +9,7 @@ My name is Paolo Bonomi and I'm from Milan (Italy). As computer scientist my int
 My passion and inclination in the process of video game development led my github being full of videogame's based projects.
 Currently I'm working at [AISLAB](https://ais-lab.di.unimi.it/) on my master's thesis. The main purpose of the thesis is to analyse and unravel Capsule Network ( [code](https://github.com/bonomip/CapsNetwork) ) as robust image classification model.
 
-### Talk to me about...
+Talk to me about:
 - CNN, CapsNet, Transformer, Behavioural Model, RL, etc.
 - Indie Games
 - GPU program optimization
