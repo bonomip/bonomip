@@ -3,18 +3,18 @@
 [![Contact](https://img.shields.io/badge/Contact-eMail-success)](mailto:paolo.bonomi@studenti.unimi.it)
 [![GitHub](https://img.shields.io/badge/Support%20at-GitHub-blueviolet)](https://github.com/bonomip) [![Linkedin](https://img.shields.io/badge/My%20profile-Linkedin-blue)](https://www.linkedin.com/in/pbonomi/) 
  
-My name is Paolo Bonomi and i'm from Milan, Italy. As a computer scientist, my interests span across the interconnected fields of computational geometry, machine learning, and software engineering. 
+Hi, I'm Paolo Bonomi, a computer scientist from Milan, Italy. I’m interested in computational geometry, machine learning, and software engineering—especially where these fields connect.
 
-My passion and inclination for manipulating multi-dimensional data, as well as researching and developing new ML models, is what drew me to the exciting field of Computer Vision.
+I really enjoy working with complex data and building new machine learning models. That interest led me to the world of Computer Vision, where I like solving problems that involve images and patterns.
 
-In addition i'm a naturally curious person, and that curiosity keeps pushing me to dig deep into how things really work. I don't plan on stopping at just using libraries; I'm all about understanding the finer details.
+I'm a curious person by nature, and I always want to understand how things work under the hood—not just use libraries or tools, but really learn what’s happening behind the scenes.
 
-Talk to me about:
-- CNN, CapsNet, Transformer, Behavioural Model, RL, etc.
+Some of the topics I like to explore:
+- Deep Learning (like CNNs, Transformers, Reinforcement Learning)
 - Computational Geometry
--  GPU program optimization
-- Indie Games
-- Mathematics and Physics
+- GPU Programming and Making Code Run Faste
+- Indie Game Development
+- Math and Physics
 
 ## 🚀 Featured Projects
 
