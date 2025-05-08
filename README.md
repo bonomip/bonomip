@@ -15,3 +15,16 @@ Talk to me about:
 -  GPU program optimization
 - Indie Games
 - Mathematics and Physics
+
+## 🚀 Featured Projects
+
+[CapsNetwork](https://github.com/bonomip/CapsNetwork) – A PyTorch implementation of Capsule Networks, based on Hinton's dynamic routing architecture, designed to improve spatial understanding over traditional CNNs. Includes tools for training, evaluation, and result visualization on MNIST.
+
+[DroneDelivery](https://github.com/bonomip/DroneDelivery) – A Java-based prototype for a distributed drone delivery system. Utilizes REST APIs and MQTT messaging via the Mosquitto broker, with Gradle for build automation. Simulates real-time drone task coordination.
+
+[Coons Patch Visualizer](https://github.com/bonomip/coons-patch) – An interactive web app built with JavaScript and p5.js to visualize Coons patches. Allows manipulation of boundary curves and blending functions for educational exploration in computational geometry.
+
+[vPhysic](https://github.com/bonomip/vPhysics) – An C++ project that implements a basic Verlet physics engine using OpenGL for real-time visualization. It simulates particle systems and physics constraints in an interactive graphical environment.
+
+
+
