@@ -26,5 +26,7 @@ Talk to me about:
 
 [vPhysic](https://github.com/bonomip/vPhysics) – An C++ project that implements a basic Verlet physics engine using OpenGL for real-time visualization. It simulates particle systems and physics constraints in an interactive graphical environment.
 
+[ExploRace](https://github.com/bonomip/Explorace) – An online multiplayer game prototype developed in Unity using C#. It focuses on exploration and racing mechanics, showcasing basic networking and gameplay features.
+
 
 
