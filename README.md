@@ -3,7 +3,7 @@
 [![Contact](https://img.shields.io/badge/Contact-eMail-success)](mailto:paolo.bonomi@studenti.unimi.it)
 [![GitHub](https://img.shields.io/badge/Support%20at-GitHub-blueviolet)](https://github.com/bonomip) [![Linkedin](https://img.shields.io/badge/My%20profile-Linkedin-blue)](https://www.linkedin.com/in/pbonomi/) 
  
-Hi, I'm Paolo Bonomi, a computer scientist from Milan, Italy. I’m interested in computational geometry, machine learning, and software engineering—especially where these fields connect.
+I'm Paolo Bonomi, a computer scientist from Milan, Italy. I’m interested in computational geometry, machine learning, and software engineering—especially where these fields connect.
 
 I really enjoy working with complex data and building new machine learning models. That interest led me to the world of Computer Vision, where I like solving problems that involve images and patterns.
 
